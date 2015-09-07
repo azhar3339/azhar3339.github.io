@@ -4,7 +4,7 @@ title: Python Lists
 ---
 
 
-## <span style="color:Orange; ">Creating a list in Python</span>
+## <span style="color:Orange; ">1. Creating a list in Python</span>
 
 
     a = [] ##Empty list

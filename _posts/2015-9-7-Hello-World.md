@@ -1,5 +1,8 @@
+---
+layout: post
+title: Python Lists
+---
 
-#<span style="color:Orange; ">Python Lists</span>
 
 ## <span style="color:Orange; ">Creating a list in Python</span>
 

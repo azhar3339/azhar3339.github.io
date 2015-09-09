@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Python Lists
+categories: [Python, Lists, List Comprehension]
 ---
 
 

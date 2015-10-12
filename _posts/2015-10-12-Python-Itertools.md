@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Looping through multiple lists
+title: Python looping through multiple lists
 ---
 
 
-## <span style="color:Orange; ">Python itertools</span>
+## <span style="color:Orange; ">Python: itertools</span>
 
 ### Create some lists to loop through
 

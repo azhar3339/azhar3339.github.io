@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Python: Running a function in parallel with different arguments
+title: Python run a function in parallel with different arguments
 ---
-
 
 ## <span style="color:Orange; ">Python: Pool from Multiprocess</span>
 

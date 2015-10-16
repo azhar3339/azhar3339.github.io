@@ -3,6 +3,7 @@ layout: post
 title: Python run a function in parallel with different arguments
 ---
 
+
 ## <span style="color:Orange; ">Python: Pool from Multiprocess</span>
 
 ### Create a slow function which needs to be run in parallel

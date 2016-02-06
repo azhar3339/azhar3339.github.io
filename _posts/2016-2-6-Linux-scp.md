@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux: scp command
+title: Linux scp command
 ---
 
 

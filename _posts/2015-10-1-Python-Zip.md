@@ -13,7 +13,7 @@ title: Python sort lists based on the values in another list
     algorithms = ["SVM", "Decision Trees", "Random Forests", "Linear Regression"]
     accuracy = [0.8, 0.9, 0.79, 0.95]
 
-###Step One: Zip everything into one list
+###Step One: Zip everything into a single list
 
 
     combined_data = zip(algorithm_codes, algorithms, accuracy)

@@ -4,7 +4,7 @@ title: Python Dictionaries
 ---
 
 
-## <span style="color:Orange; ">Creating a dictionary in Python</span>
+## <span style="color:Orange; ">1. Creating a dictionary in Python</span>
 
 
     antonym = {} ##Empty Dictionary

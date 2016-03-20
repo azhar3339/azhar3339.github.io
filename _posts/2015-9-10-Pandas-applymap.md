@@ -19,7 +19,7 @@ title: Pandas-applymap
     2      Terrible!!!!!
 
 
-###We would like to apply the function clean_data on every movie review, this kind of analysis is mostly done in Sentiment Analysis
+### We would like to apply the function clean_data on every movie review, this kind of analysis is mostly done in Sentiment Analysis
 
 
     ###Define a function to clean the data

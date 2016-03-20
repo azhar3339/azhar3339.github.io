@@ -76,7 +76,7 @@ title: Some Pandas usecases
 
 
 
-###Remove Duplicates
+### Remove Duplicates
 
 
     df = pd.DataFrame({"Numbers":[1,1,2,2,3,3], "Words":["One","One","Two","Two","Three","Three"]})
@@ -132,7 +132,7 @@ title: Some Pandas usecases
     5        3      Three
 
 
-###Resetting Index
+### Resetting Index
 
 
     ### unique_df.ix[1] Will throw a key error as this index was removed see above
@@ -213,7 +213,7 @@ Asia =1, Africa = 2, Europe = 3
         df = pd.DataFrame(list_of_lists, columns=column_names)
         df.to_csv("Filename.csv", index=False)
 
-###Combine data from files in a directory
+### Combine data from files in a directory
 
 
     def read_data(path_to_dir):

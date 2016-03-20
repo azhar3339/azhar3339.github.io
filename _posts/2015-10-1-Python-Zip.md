@@ -13,19 +13,19 @@ title: Python sort lists based on the values in another list
     algorithms = ["SVM", "Decision Trees", "Random Forests", "Linear Regression"]
     accuracy = [0.8, 0.9, 0.79, 0.95]
 
-###Step One: Zip everything into a single list
+### Step One: Zip everything into a single list
 
 
     combined_data = zip(algorithm_codes, algorithms, accuracy)
 
-###Step Two: Sort 
+### Step Two: Sort 
 
 
     ###Sort based on the third column i.e., index 2 in python
     from operator import itemgetter
     combined_sorted = sorted(combined_data, key=itemgetter(2), reverse= True) ##Descending order
 
-###Look at the result
+### Look at the result
 
 
     for i in combined_sorted:

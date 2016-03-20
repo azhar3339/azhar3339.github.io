@@ -15,7 +15,7 @@ title: Python run a function in parallel with different arguments
         time.sleep(4) ###Some costly operations
         return number
 
-###Running the slow function sequentially for 4 numbers
+### Running the slow function sequentially for 4 numbers
 
 
     numbers = range(4)
@@ -37,7 +37,7 @@ title: Python run a function in parallel with different arguments
     Time taken in seconds: 16.017800808
 
 
-###Now running the four function calls in parallel
+### Now running the four function calls in parallel
 
 
     from multiprocessing import Pool

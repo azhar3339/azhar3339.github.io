@@ -14,7 +14,7 @@ title: Python looping through multiple lists
     true_pos = [20,15,21,16]
     true_neg = [30,20,34,24]
 
-###Naive way to loop through all the lists in one go
+### Naive way to loop through all the lists in one go
 
 
     for i in range(len(algorithms)):
@@ -26,7 +26,7 @@ title: Python looping through multiple lists
     Linear Regression 83 16 24
 
 
-###Nicer way
+### Nicer way
 
 
     import itertools
